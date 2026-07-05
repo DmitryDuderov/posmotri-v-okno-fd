@@ -89,7 +89,7 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 30px;
-  height: 350px; 
+  height: 350px;
   overflow-y: auto;
   overflow-x: hidden;
   position: relative;
@@ -143,7 +143,6 @@ ol {
   text-transform: uppercase;
   white-space: nowrap;
   overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 .content__video-card-description {
