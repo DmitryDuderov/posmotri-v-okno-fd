@@ -193,10 +193,6 @@ ol {
   text-underline-offset: 1px;
 }
 
-.content__card-link:hover {
-  text-decoration: underline;
-}
-
 .content__card-link:focus {
   outline: none;
 }
